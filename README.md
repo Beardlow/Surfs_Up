@@ -6,7 +6,7 @@
   
 ## Results
   
-    Some interesting results can be seen from the following two analyses.
+  Some interesting results can be seen from the following two analyses.
     
 ### June Temperature Summary
 ![June_temp_summary.png](https://github.com/Beardlow/Surfs_Up/blob/main/June_temp_summary.png)
@@ -14,16 +14,16 @@
 ### December Temperature Summary
 ![Dec_temp_summary.png](https://github.com/Beardlow/Surfs_Up/blob/main/Dec_temp_summary.png)
 
-*The weather in Oahu when comparing June and December is surprisingly very similar. (When compared to Ohio that is...)
-  *Average Temperatures
-    *June average temperature is 74.9 degees Fahrenheit.
-    *December average temperature is 71.0 degrees Fahrenheit.
-  *Minumum Temperatures
-    *June minimum temperature is 64.0 degrees.
-    *December minimum temperature is 56.0 degrees.
-  *Maximum Temperatures
-    *June maximum temperature is 85.0 degrees.
-    *December maximum temperature is 83.0 degrees.
+The weather in Oahu when comparing June and December is surprisingly very similar. (When compared to Ohio that is...)
+  * Average Temperatures
+    * June average temperature is 74.9 degees Fahrenheit.
+    * December average temperature is 71.0 degrees Fahrenheit.
+  * Minumum Temperatures
+    * June minimum temperature is 64.0 degrees.
+    * December minimum temperature is 56.0 degrees.
+  * Maximum Temperatures
+    * June maximum temperature is 85.0 degrees.
+    * December maximum temperature is 83.0 degrees.
     
 ## Summary
 
